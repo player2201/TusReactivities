@@ -1,0 +1,15 @@
+D:\Repos\Web Development Projects\TusReactivities\Persistence\bin\Debug\net9.0\Persistence.deps.json
+D:\Repos\Web Development Projects\TusReactivities\Persistence\bin\Debug\net9.0\Persistence.dll
+D:\Repos\Web Development Projects\TusReactivities\Persistence\bin\Debug\net9.0\Persistence.pdb
+D:\Repos\Web Development Projects\TusReactivities\Persistence\bin\Debug\net9.0\Domain.dll
+D:\Repos\Web Development Projects\TusReactivities\Persistence\bin\Debug\net9.0\Domain.pdb
+D:\Repos\Web Development Projects\TusReactivities\Persistence\obj\Debug\net9.0\Persistence.csproj.AssemblyReference.cache
+D:\Repos\Web Development Projects\TusReactivities\Persistence\obj\Debug\net9.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\Web Development Projects\TusReactivities\Persistence\obj\Debug\net9.0\Persistence.AssemblyInfoInputs.cache
+D:\Repos\Web Development Projects\TusReactivities\Persistence\obj\Debug\net9.0\Persistence.AssemblyInfo.cs
+D:\Repos\Web Development Projects\TusReactivities\Persistence\obj\Debug\net9.0\Persistence.csproj.CoreCompileInputs.cache
+D:\Repos\Web Development Projects\TusReactivities\Persistence\obj\Debug\net9.0\Persiste.61C28332.Up2Date
+D:\Repos\Web Development Projects\TusReactivities\Persistence\obj\Debug\net9.0\Persistence.dll
+D:\Repos\Web Development Projects\TusReactivities\Persistence\obj\Debug\net9.0\refint\Persistence.dll
+D:\Repos\Web Development Projects\TusReactivities\Persistence\obj\Debug\net9.0\Persistence.pdb
+D:\Repos\Web Development Projects\TusReactivities\Persistence\obj\Debug\net9.0\ref\Persistence.dll

@@ -1,0 +1,11 @@
+D:\Repos\Web Development Projects\TusReactivities\Domain\bin\Debug\net9.0\Domain.deps.json
+D:\Repos\Web Development Projects\TusReactivities\Domain\bin\Debug\net9.0\Domain.dll
+D:\Repos\Web Development Projects\TusReactivities\Domain\bin\Debug\net9.0\Domain.pdb
+D:\Repos\Web Development Projects\TusReactivities\Domain\obj\Debug\net9.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repos\Web Development Projects\TusReactivities\Domain\obj\Debug\net9.0\Domain.AssemblyInfoInputs.cache
+D:\Repos\Web Development Projects\TusReactivities\Domain\obj\Debug\net9.0\Domain.AssemblyInfo.cs
+D:\Repos\Web Development Projects\TusReactivities\Domain\obj\Debug\net9.0\Domain.csproj.CoreCompileInputs.cache
+D:\Repos\Web Development Projects\TusReactivities\Domain\obj\Debug\net9.0\Domain.dll
+D:\Repos\Web Development Projects\TusReactivities\Domain\obj\Debug\net9.0\refint\Domain.dll
+D:\Repos\Web Development Projects\TusReactivities\Domain\obj\Debug\net9.0\Domain.pdb
+D:\Repos\Web Development Projects\TusReactivities\Domain\obj\Debug\net9.0\ref\Domain.dll
