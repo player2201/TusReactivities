@@ -13,3 +13,4 @@ D:\Repos\Web Development Projects\TusReactivities\Persistence\obj\Debug\net9.0\P
 D:\Repos\Web Development Projects\TusReactivities\Persistence\obj\Debug\net9.0\refint\Persistence.dll
 D:\Repos\Web Development Projects\TusReactivities\Persistence\obj\Debug\net9.0\Persistence.pdb
 D:\Repos\Web Development Projects\TusReactivities\Persistence\obj\Debug\net9.0\ref\Persistence.dll
+D:\Repos\Web Development Projects\TusReactivities\Persistence\obj\Debug\net9.0\Persistence.sourcelink.json
